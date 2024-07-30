@@ -28,7 +28,7 @@ In the age of streaming services and vast movie libraries, finding films that ma
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/Movie-Recommendation-System.git
+   git clone https://github.com/manishk002/Movie-Recommendation-System.git
    cd Movie-Recommendation-System
    ```
 
