@@ -66,6 +66,7 @@ This will output a list of 5 movie recommendations similar to 'Spectre'.
 The project uses the TMDB 5000 Movie Dataset, which includes two CSV files:
 - `tmdb_5000_movies.csv`: Contains movie metadata
 - `tmdb_5000_credits.csv`: Contains cast and crew information
+- Dataset link:- https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
 
 Make sure these files are present in your project directory before running the script.
 
